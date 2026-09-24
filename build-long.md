@@ -1,4 +1,4 @@
-Phase 2B — SERVER01 Virtual Machine
+SERVER01 Virtual Machine
 VM Configuration
 VM Name: SERVER01
 Hypervisor: Oracle VirtualBox
