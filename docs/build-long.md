@@ -32,5 +32,9 @@ No issues have been in counted yet, just simply setting up a server and its IP a
 Pinged Server IP to confirm that they are set up and can recognize one another but should are not able to send and receive packets.
 <img width="1179" height="990" alt="image" src="https://github.com/user-attachments/assets/e7aaf9fd-5def-425e-8234-d1ca73f52add" />
 
+
+VirtualBox Manager SERVER1 VM settings:
+<img width="1289" height="694" alt="image" src="https://github.com/user-attachments/assets/e6315d56-d80a-4554-9ba2-d9ad963fe57b" />
+
 Next Steps:
 Configure Lab network and prepare SERVER1 for the Active Directory Domain services, and configure these services.
