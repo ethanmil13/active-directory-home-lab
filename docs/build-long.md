@@ -1,12 +1,19 @@
 SERVER01 Virtual Machine
 
 VM Configuration
-VM Name: SERVER01 
+
+VM Name: SERVER01
+
 Hypervisor: Oracle VirtualBox 
+
 Operating System: Windows Server 2022 Standard Evaluation (Desktop Experience) 
+
 RAM: 4096 MB 
+
 vCPU: 2 
+
 Virtual Disk: 50 GB, dynamically allocated 
+
 Initial Network Mode: NAT 
 
 Installation Results:
