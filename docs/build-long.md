@@ -26,11 +26,11 @@ Evidence
 SERVER01 in VirtualBox Manager
 Windows Server desktop / Server Manager
 Virtual machine hardware settings
+<img width="1179" height="990" alt="image" src="https://github.com/user-attachments/assets/e7aaf9fd-5def-425e-8234-d1ca73f52add" />
 
 Notes:
 No issues have been in counted yet, just simply setting up a server and its IP address. 
 Pinged Server IP to confirm that they are set up and can recognize one another but should are not able to send and receive packets.
-<img width="1179" height="990" alt="image" src="https://github.com/user-attachments/assets/e7aaf9fd-5def-425e-8234-d1ca73f52add" />
 
 
 VirtualBox Manager SERVER1 VM settings:
